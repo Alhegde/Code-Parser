@@ -1,0 +1,5 @@
+//punctuator , alphanumeric and special one character tokens
+ "this is a string";
+punctuator list = ~!@#$&_
+"special one character tokens"  <>[](){}:=+-*
+"special two character tokens"  <<>::++--==+=-=*=/=
